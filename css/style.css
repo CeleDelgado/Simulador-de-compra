@@ -1,0 +1,16 @@
+.button {
+    background-color: pink;
+    color: black;
+    border: 2px solid red;
+    font-size: 1rem;
+    transition-duration: 0.4s;
+    padding: 20px;
+    margin: 30px;
+}
+.button:hover {
+    font-size: 1.5rem;
+    background-color: violet;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+}
